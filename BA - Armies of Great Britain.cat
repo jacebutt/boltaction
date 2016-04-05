@@ -2545,7 +2545,7 @@
             </link>
           </links>
         </entry>
-        <entry id="466ea924-db3a-b6cf-d117-fdada00c8b48" name="Cardon-Loyd Tow" points="-1.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-1.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
+        <entry id="466ea924-db3a-b6cf-d117-fdada00c8b48" name="Cardon-Loyd Tow" points="-10.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="-1.0" maxPoints="-1.0" collective="false" hidden="false" page="0">
           <entries/>
           <entryGroups/>
           <modifiers/>
